@@ -2,7 +2,7 @@
   "name": "VizAlgo",
   "version": "1.0.0",
   "description": "VizAlgo - A platform to visualize data structures and alogrithms",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
   "start": "parcel index.html",
   "build": "parcel build index.html --public-url ./",
